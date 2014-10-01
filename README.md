@@ -20,7 +20,9 @@ Protocols: - List all protocols here of which you wish to block or allow
 Protocols:
  
  4: 1.7.1 - 1.7.5
+ 
  5: 1.7.6 - 1.7.10
+ 
  47: 1.8
  
  Other Protocols: http://wiki.vg/Protocol_version_numbers
