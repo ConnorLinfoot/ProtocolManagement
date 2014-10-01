@@ -1,0 +1,4 @@
+name: ProtocolManagement
+description: ProtocolManagement
+main: com.connorlinfoot.protocolmanagement.Main
+version: 1.0
